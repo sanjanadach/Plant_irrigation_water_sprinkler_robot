@@ -1,12 +1,12 @@
-🌱 Plant Irrigation Water Sprinkler Robot 🚜
+## 🌱 Plant Irrigation Water Sprinkler Robot 🚜
 
 This project implements a Remote-Controlled Smart Irrigation System using Arduino, designed to monitor and control soil moisture levels, water pumps, and environmental sensors for optimized irrigation.
 
-🚀 Project Overview:
+## 🚀 Project Overview:
 
 Goal: To create a smart system that automates irrigation based on real-time soil moisture and proximity sensing. It allows remote monitoring and control using the RemoteXY app interface.
 
-Features:
+## Features:
 
 ->Soil Moisture Sensor to monitor soil water levels.
 
@@ -20,7 +20,7 @@ Features:
 
 ->RemoteXY mobile app integration for wireless control.
 
-🛠 Hardware Components:
+## 🛠 Hardware Components:
 
 1)Arduino Uno
 
@@ -40,7 +40,7 @@ Features:
 
 10)Power Supply (Battery Pack)
 
-🌱 Working Principle:
+## 🌱 Working Principle:
 
 1) Soil moisture sensor checks the water level in the soil.
 
@@ -54,7 +54,7 @@ Features:
 
 4) All data and controls are synced to the RemoteXY mobile app for real-time operation.
 
-⚙️ Libraries Used:
+## ⚙️ Libraries Used:
 
 RemoteXY
 
@@ -62,7 +62,7 @@ AFMotor
 
 Servo
 
-📊 Real-Time Feedback:
+## 📊 Real-Time Feedback:
 
 ->Soil Moisture Levels: Displayed in percentage.
 
